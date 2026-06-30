@@ -1,0 +1,1 @@
+This exercise teaches about using conditionals (if/else) and comparasion operators (in this case, ">=")
