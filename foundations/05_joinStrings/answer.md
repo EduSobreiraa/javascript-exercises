@@ -1,0 +1,1 @@
+Again, really simple exercise. Content: Concatenation and variables.
