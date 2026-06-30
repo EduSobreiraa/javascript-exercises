@@ -1,0 +1,1 @@
+First exercise from the foundations directory. Basically explains about the testing funcion (using jest) and how most exercises will work.
