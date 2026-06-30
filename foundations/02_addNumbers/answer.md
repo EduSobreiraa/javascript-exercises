@@ -1,0 +1,1 @@
+Changing the variables type to number instead of the original string and adding the values not concatenating.
